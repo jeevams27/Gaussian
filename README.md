@@ -49,7 +49,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination](./pj.jpg)
+![gaussian elimination](./pjm.jpg)
 
 
 ## Result:
